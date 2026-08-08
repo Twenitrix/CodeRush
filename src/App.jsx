@@ -6,6 +6,7 @@ import About from './components/About';
 import ProcessCards from './components/ProcessCards';
 import Tracks from './components/Tracks';
 import Timeline from './components/Timeline';
+import ProblemVault from './components/ProblemVault';
 import Prizes from './components/Prizes';
 import Rules from './components/Rules';
 import FAQ from './components/FAQ';
@@ -23,6 +24,7 @@ export default function App() {
         <ProcessCards />
         <Tracks />
         <Timeline />
+        <ProblemVault />
         <Prizes />
         <Rules />
         <FAQ />

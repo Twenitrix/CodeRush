@@ -17,6 +17,7 @@ export default function Navbar() {
     { name: 'Sequence', href: '#sequence' },
     { name: 'Tracks', href: '#tracks' },
     { name: 'Timeline', href: '#timeline' },
+    { name: 'Vault', href: '#vault' },
     { name: 'Prizes', href: '#prizes' },
     { name: 'FAQ', href: '#faq' },
     { name: 'Contact', href: '#contact' },
